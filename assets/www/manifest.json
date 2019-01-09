@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "News Diet",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://www.condense.press/",
+    "short_name": "News",
+    "theme_color": "transparent",
+    "description": "Pick articles sorted by popularity in a specific date range.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/css/images/298896ce-404e-de64-88e8-d0cb33e69045.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/cc82d806-a035-c893-a453-5e84fc2aff3a.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/601a48ad-2f6e-bb3e-83f8-9da61790cdbd.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/afc04b6b-045c-010e-bc14-50c68c6d12dc.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/8f74d0b0-22a0-6967-2d10-c133a54eaccd.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/b2181b08-28b8-39d5-ca1e-36f7615555a9.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/c424eece-a520-d1df-313a-78998735586a.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/a65e8305-0b6a-1842-f864-6f7176b31251.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/ecef32b4-60ed-decf-41af-320184343673.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/27f192cf-f0db-e528-e5b9-d6f5842745db.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/b4d03ded-5c7a-d94e-c778-bfd3c6436aa7.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/b361c94b-65a3-5ab5-77a4-33a951a2d736.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/8cbe0c0d-c99b-a99f-eba3-1028d6e4eeb8.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/347a5a0d-65cc-2fd2-2fd5-65a726ae3b05.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/7d822f59-4e8f-3ef4-090b-2c1a00c16f6d.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/6a3a5cf1-59e2-7deb-177b-8dae205e1fda.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/4ee9db73-32f0-ae59-1ed7-0321633a0b5a.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/26fdb86c-1792-3c9a-5e86-528fe7e78224.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/css/images/e33938dd-9d8c-5431-96e9-4317a67327c3.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="press.condense.www" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="HostedWebApp">
+        <param name="android-package" value="com.manifoldjs.hostedwebapp.HostedWebApp" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
+    <allow-intent href="market:*" />
+    <icon density="mdpi" src="/css/images/cc82d806-a035-c893-a453-5e84fc2aff3a.webPlatform.png" />
+    <icon density="xxxhdpi" src="/css/images/27f192cf-f0db-e528-e5b9-d6f5842745db.webPlatform.png" />
+    <icon density="xxhdpi" src="/css/images/b4d03ded-5c7a-d94e-c778-bfd3c6436aa7.webPlatform.png" />
+    <icon density="xhdpi" src="/css/images/b361c94b-65a3-5ab5-77a4-33a951a2d736.webPlatform.png" />
+    <icon density="hdpi" src="/css/images/8cbe0c0d-c99b-a99f-eba3-1028d6e4eeb8.webPlatform.png" />
+    <icon density="ldpi" src="/css/images/347a5a0d-65cc-2fd2-2fd5-65a726ae3b05.webPlatform.png" />
+    <name>News</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="https://www.condense.press/" />
+    <access origin="*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="Orientation" value="default" />
+    <preference name="Fullscreen" value="true" />
+    <allow-navigation hap-rule="yes" href="https://www.condense.press/*" />
+</widget>
