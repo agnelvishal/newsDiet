@@ -3,8 +3,9 @@ build.xml
 local.properties
 /gradlew
 /gradlew.bat
-/CordovaLib/build/intermediates/classes
-/home/agnelvishal/Downloads/projects (2)/Polyfills/cordova/platforms/android/cordova/node_modules/properties-parser/testReadProperties.class
+/CordovaLib/build
+/cordova/node_modules/properties-parser/testReadProperties.class
+/.gradle
 # Ant builds
 ant-build
 ant-gen
