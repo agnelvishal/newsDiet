@@ -3,7 +3,7 @@ build.xml
 local.properties
 /gradlew
 /gradlew.bat
-/gradle
+/CordovaLib/build/intermediates/classes
 # Ant builds
 ant-build
 ant-gen
