@@ -1,4 +1,7 @@
 # News Diet
+
+<a href="https://f-droid.org/packages/press.condense.www/"><img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"></a>
+     
 A better way to pick articles to read.
 
 News apps like Google News, Flipboard, BBC show trending articles written
@@ -10,11 +13,10 @@ Consider you haven’t read any news for the last 1 monthor 1 year.If you open a
 For example, techcrunch.com has 292,172 articles. But this app sorts
 all those articles based on popularity. This app is a a webview of www.condense.press
 and has PWA(Progressive Web App) features.
+
 The source code of the website is at https://github.com/agnelvishal/Condense.press 
 
-[<img src="https://f-droid.org/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/press.condense.www/)
+
 
 # Donate
 My aim is to build an open source search engine which requires lot of resources. 
@@ -23,3 +25,4 @@ Consider donating to make it happen
 Paypal: https://www.paypal.me/agnelv
 
 Bitcoin: 325oe18pc8npqHeBGozobnvWfXXe3pujXq
+
