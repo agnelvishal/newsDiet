@@ -10,6 +10,7 @@ Consider you haven’t read any news for the last 1 monthor 1 year.If you open a
 For example, techcrunch.com has 292,172 articles. But this app sorts
 all those articles based on popularity. This app is a a webview of www.condense.press
 and has PWA(Progressive Web App) features.
+The source code of the website is at https://github.com/agnelvishal/Condense.press 
 
 [<img src="https://f-droid.org/badge/get-it-on.png"
      alt="Get it on F-Droid"
