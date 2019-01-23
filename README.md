@@ -1,6 +1,6 @@
 # News Diet
 
-<a href="https://f-droid.org/packages/press.condense.www/"><img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"></a>
+<a href="https://f-droid.org/packages/press.condense.www/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80"></a>
      
 A better way to pick articles to read.
 
